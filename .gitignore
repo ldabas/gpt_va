@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# Python specific files
+*.pyc
+*.pyo
+__pycache__/
+
+# Conda virtual environment
+.env
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code specific files
+.vscode/
+
+# Python project specific files (adjust as needed)
+config.py
